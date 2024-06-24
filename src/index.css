@@ -9,8 +9,11 @@
 
 .app{
 
-  background-color: rgb(205, 205, 190);
+  background:url('./assets/clearSkyGif.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
   min-height: 100vh;
   display: grid;
 
 }
+
